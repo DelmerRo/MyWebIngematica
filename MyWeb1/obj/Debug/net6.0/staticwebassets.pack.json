@@ -37,10 +37,6 @@
       "PackagePath": "staticwebassets\\image\\linkedin.png"
     },
     {
-      "Id": "C:\\Users\\Maria\\source\\repos\\MyWeb1\\MyWeb1\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
-    },
-    {
       "Id": "C:\\Users\\Maria\\source\\repos\\MyWeb1\\MyWeb1\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },

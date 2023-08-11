@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S/1n8+ZT/d4/1Ixw+gWaGFwufK4S9f6zKOC1e+Oih8k=",
+  "Hash": "T3UwvQCya0Qm/8/AHbqYdSDEfULPKoq0bwgX1ZaMLGE=",
   "Source": "MyWeb1",
   "BasePath": "_content/MyWeb1",
   "Mode": "Default",
@@ -185,23 +185,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\image\\linkedin.png"
-    },
-    {
-      "Identity": "C:\\Users\\Maria\\source\\repos\\MyWeb1\\MyWeb1\\wwwroot\\index.html",
-      "SourceId": "MyWeb1",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Maria\\source\\repos\\MyWeb1\\MyWeb1\\wwwroot\\",
-      "BasePath": "_content/MyWeb1",
-      "RelativePath": "index.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
       "Identity": "C:\\Users\\Maria\\source\\repos\\MyWeb1\\MyWeb1\\wwwroot\\js\\script.js",
