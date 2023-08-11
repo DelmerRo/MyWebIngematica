@@ -1,0 +1,12 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "My Curriculum";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Mi Curriculum</h1>
+    <object data="~/pdf/curriculum.pdf" type="application/pdf" width="100%" height="800px">
+        <p>Tu navegador no puede mostrar el PDF. Puedes <a href="~/pdf/curriculum.pdf">descargarlo aquí</a>.</p>
+        </object>
+</div>
